@@ -1,7 +1,7 @@
 # imdb_practice
 This is a practice on sentiment analysis.
 
-The code can be run on Windows/Linux + python3.
+The code can be run on Windows/Linux + python3. One for jupyter notebook and the other for spyder or anaconda.
 
 Pandas sklearn re bs4 and jupyter notebook are needed.
 
