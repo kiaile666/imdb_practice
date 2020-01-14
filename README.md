@@ -1,10 +1,16 @@
 # imdb_practice
-This is a practice on sentiment analysis.
+This is a practice on sentiment analysis base on IMDB movie reviews
 
-The code can be run on Windows/Linux + python3. One for jupyter notebook and the other for spyder or anaconda.
+The code can be run on Windows/Linux.
 
-Pandas sklearn re bs4 and jupyter notebook are needed.
+Command in terminal: python3 part2.py
+
+Pandas sklearn re bs4 nltk and jupyter notebook are needed.
+and the part2.py and analysis data should be placed in the same directory
 
 'english.txt' is a source of stop words which can be replace by other third party stop word list.
 
 See code for more comments.
+
+
+
